@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @juanjo-rosh
 - 👀 I’m interested in Neural Networks.
-- 🌱 I’m currently learning more about Deep Learning.
-- 💞️ I’m looking to collaborate on any kind of cool project.
+- 🌱 I’m currently learning more about Deep Learning and AI.
 - ⚡ Fun fact: I am from Madrid but I studied one year of college in Atlanta.
 
 <!---
