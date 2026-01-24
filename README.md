@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @juanjo-rosh
-- 👀 I’m interested in Neural Networks.
-- 🌱 I’m currently learning more about Cybersecurity, Deep Learning and AI.
-- ⚡ Fun fact: I am from Madrid but I studied one year of college in Atlanta.
 
-  Take a look at my website: https://juanjo-rosh.github.io/my_website/
+Data Science and Telecommunications Engineering student @ UC3M
+
+Take a look at my website: https://juanjo-rosh.github.io/my_website/
 
 <!---
 juanjo-rosh/juanjo-rosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
